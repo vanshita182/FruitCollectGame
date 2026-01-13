@@ -42,7 +42,7 @@ This project is a feature-rich login system with a fun and interactive **Fruit C
 ## 📁 Project Structure
 
 ```
-smart-login-system/
+
 │
 ├── index.html              # Login page (entry point)
 ├── README.md               # Project documentation
@@ -112,4 +112,5 @@ smart-login-system/
 - [ ] Progressive Web App (PWA) support for offline play
 
 ---
+
 
