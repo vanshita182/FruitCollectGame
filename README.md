@@ -150,6 +150,7 @@ dotnet run
 
 Backend will be available at `http://localhost:5000`
 Swagger API docs at `http://localhost:5000/swagger`
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/2cb23db5-b5cf-473c-8476-b0f7a07d5b2b" />
 
 ### 3. Database Setup
 
@@ -323,5 +324,6 @@ Vanshita's Fruit Collector Game - Full Stack Project
 - **Backend Setup**: See `Backend/FruitCollectGameapi/README.md`
 - **API Documentation**: Visit `http://localhost:5000/swagger` (when backend is running)
 - **Environment Variables**: See `Backend/FruitCollectGameapi/.env.example`
+
 
 
