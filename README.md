@@ -251,13 +251,6 @@ For detailed API documentation, visit `http://localhost:5000/swagger` when backe
 
 ### Running in Development Mode
 
-**Frontend:**
-```bash
-# Serve frontend with Python
-python -m http.server 8000
-# Or use any HTTP server
-```
-
 **Backend:**
 ```bash
 cd Backend/FruitCollectGameapi
@@ -324,6 +317,7 @@ Vanshita's Fruit Collector Game - Full Stack Project
 - **Backend Setup**: See `Backend/FruitCollectGameapi/README.md`
 - **API Documentation**: Visit `http://localhost:5000/swagger` (when backend is running)
 - **Environment Variables**: See `Backend/FruitCollectGameapi/.env.example`
+
 
 
 
